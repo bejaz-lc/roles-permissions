@@ -1,4 +1,4 @@
-﻿Id,User,Target,Screen_Id,Parent,Grant
+Id,User,Target,Screen_Id,Parent,Grant
 1,user,module,analytics-comp,null,Read
 2,user,component,playbook-applied-analytics-comp,analytics-comp,Read
 3,user,component,playbook-applied-pie-chart-comp,playbook-applied-analytics-comp,Read
