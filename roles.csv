@@ -121,7 +121,6 @@ Id,User,Target,Screen_Id,Parent,Grant
 120,platform admin,module,customer-admin-comp,null,Write
 121,platform admin,module,document-library-comp,null,Write
 122,platform admin,component,upload-multiple-doc-modal-comp,new-document-batch-upload-comp,Read
-123,platform admin,module,document-repository-comp,null,Read
 124,admin,module,action-logs-admin-comp,null,Read
 125,admin,module,account-management-comp,null,Write
 126,admin,component,activation-comp,account-management-comp,Write
@@ -160,4 +159,3 @@ Id,User,Target,Screen_Id,Parent,Grant
 159,admin,module,document-tag-comp,null,Write
 160,admin,component,upload-doc-metrics-comp,platform-admin-dashboard-comp,Read
 161,admin,component,upload-multiple-doc-modal-comp,new-document-batch-upload-comp,Read
-162,admin,module,document-repository-comp,null,Read
